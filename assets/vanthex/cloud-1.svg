@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 360" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect width="576" height="360" fill="#f7f7f9"/>
+<rect x="196" y="24" width="184" height="64" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<g transform="translate(212,40)"><rect width="32" height="32" rx="8.0" fill="#0674e7"/><path d="M7.68 9.6h4.48l3.84 9.6 3.84-9.6h4.48l-6.4 14.08h-3.84z" fill="#fff"/></g><text x="256" y="61" fill="#1b1d21" font-size="15" font-weight="700">Vanthex Cloud</text>
+<path d="M240 88C180 140 140 150 120 190M288 88v100M336 88c60 52 100 62 120 102" stroke="#0674e7" stroke-width="2" stroke-dasharray="3 7" fill="none"/>
+<rect x="76" y="190" width="92" height="140" rx="14" fill="#fff" stroke="#e6e7eb"/>
+<g transform="translate(102,220)"><rect width="40" height="40" rx="10.0" fill="#0674e7"/><path d="M9.6 12.0h5.6000000000000005l4.8 12.0 4.8-12.0h5.6000000000000005l-8.0 17.6h-4.8z" fill="#fff"/></g><text x="122" y="352" fill="#60636b" font-size="12" text-anchor="middle">iOS</text>
+<rect x="242" y="190" width="92" height="140" rx="14" fill="#fff" stroke="#e6e7eb"/>
+<g transform="translate(268,220)"><rect width="40" height="40" rx="10.0" fill="#0674e7"/><path d="M9.6 12.0h5.6000000000000005l4.8 12.0 4.8-12.0h5.6000000000000005l-8.0 17.6h-4.8z" fill="#fff"/></g><text x="288" y="352" fill="#60636b" font-size="12" text-anchor="middle">Android</text>
+<rect x="404" y="200" width="120" height="86" rx="10" fill="#fff" stroke="#e6e7eb"/>
+<g transform="translate(444,222)"><rect width="40" height="40" rx="10.0" fill="#0674e7"/><path d="M9.6 12.0h5.6000000000000005l4.8 12.0 4.8-12.0h5.6000000000000005l-8.0 17.6h-4.8z" fill="#fff"/></g><rect x="388" y="290" width="152" height="10" rx="5" fill="#d7d8dd"/>
+<text x="464" y="352" fill="#60636b" font-size="12" text-anchor="middle">Web</text>
+</svg>

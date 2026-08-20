@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect width="1280" height="800" fill="#f7f7f9"/>
+<rect width="260" height="800" fill="#101114"/>
+<g transform="translate(24,26)"><rect width="30" height="30" rx="7.5" fill="#0674e7"/><path d="M7.199999999999999 9.0h4.2l3.5999999999999996 9.0 3.5999999999999996-9.0h4.2l-6.0 13.2h-3.5999999999999996z" fill="#fff"/></g><text x="66" y="47" fill="#fff" font-size="18" font-weight="700">Vanthex</text>
+<g font-size="14" fill="#9aa0a6">
+<text x="28" y="130">Build</text><text x="28" y="176" fill="#fff">Submit</text><text x="28" y="222">Update</text><text x="28" y="268">Workflows</text><text x="28" y="314">Observe</text>
+</g>
+<rect x="0" y="156" width="4" height="26" fill="#0674e7"/>
+<text x="320" y="130" fill="#1b1d21" font-size="34" font-weight="700">Submit</text>
+<text x="320" y="164" fill="#60636b" font-size="15">Automated release and channel management for every store.</text>
+<g>
+<rect x="320" y="220" width="170" height="110" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<rect x="530" y="220" width="170" height="110" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<rect x="740" y="220" width="170" height="110" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<rect x="950" y="220" width="170" height="110" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<g><circle cx="352" cy="252" r="10" fill="#e5f8ee"/><path d="M347.8 252 l3.2 3.5999999999999996 l5.5-7.0" stroke="#1fa45b" stroke-width="2.2" fill="none" stroke-linecap="round"/></g><g><circle cx="562" cy="252" r="10" fill="#e5f8ee"/><path d="M557.8 252 l3.2 3.5999999999999996 l5.5-7.0" stroke="#1fa45b" stroke-width="2.2" fill="none" stroke-linecap="round"/></g><g><circle cx="772" cy="252" r="10" fill="#e5f8ee"/><path d="M767.8 252 l3.2 3.5999999999999996 l5.5-7.0" stroke="#1fa45b" stroke-width="2.2" fill="none" stroke-linecap="round"/></g><g><circle cx="982" cy="252" r="10" fill="#e5f8ee"/><path d="M977.8 252 l3.2 3.5999999999999996 l5.5-7.0" stroke="#1fa45b" stroke-width="2.2" fill="none" stroke-linecap="round"/></g>
+<text x="344" y="300" fill="#1b1d21" font-size="14" font-weight="600">Build signed</text>
+<text x="554" y="300" fill="#1b1d21" font-size="14" font-weight="600">Store upload</text>
+<text x="764" y="300" fill="#1b1d21" font-size="14" font-weight="600">Review</text>
+<text x="974" y="300" fill="#1b1d21" font-size="14" font-weight="600">Release</text>
+<path d="M490 275h40m170 0h40m170 0h40" stroke="#c4c6cc" stroke-width="2" stroke-dasharray="4 6"/>
+</g>
+<g font-size="14">
+<rect x="320" y="400" width="560" height="76" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<circle cx="356" cy="438" r="6" fill="#38c878"/><text x="380" y="432" fill="#1b1d21" font-weight="600">App Store Connect</text><text x="380" y="452" fill="#60636b" font-size="12">iOS 26 — Connected</text>
+<rect x="320" y="492" width="560" height="76" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<circle cx="356" cy="530" r="6" fill="#38c878"/><text x="380" y="524" fill="#1b1d21" font-weight="600">Google Play</text><text x="380" y="544" fill="#60636b" font-size="12">Android — Connected</text>
+<rect x="320" y="584" width="560" height="76" rx="16" fill="#fff" stroke="#e6e7eb"/>
+<circle cx="356" cy="622" r="6" fill="#0674e7"/><text x="380" y="616" fill="#1b1d21" font-weight="600">Vanthex Web Hosting</text><text x="380" y="636" fill="#60636b" font-size="12">vanthex.io — Live</text>
+</g>
+<rect x="920" y="430" width="240" height="56" rx="999" fill="#050505"/>
+<text x="1040" y="464" fill="#fff" font-size="15" text-anchor="middle">Submit 2.4.1 to stores</text>
+</svg>

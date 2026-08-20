@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 341" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect width="576" height="341" fill="#f7f7f9"/>
+<rect x="16" y="16" width="544" height="309" rx="20" fill="#fff" stroke="#e6e7eb"/>
+<g transform="translate(44,44)"><rect width="28" height="28" rx="7.0" fill="#0674e7"/><path d="M6.72 8.4h3.9200000000000004l3.36 8.4 3.36-8.4h3.9200000000000004l-5.6000000000000005 12.32h-3.36z" fill="#fff"/></g><text x="84" y="64" fill="#1b1d21" font-size="17" font-weight="700">Vanthex Observe</text>
+<rect x="440" y="44" width="92" height="28" rx="14" fill="#e5f8ee"/><text x="486" y="63" fill="#1fa45b" font-size="12" text-anchor="middle">Healthy</text>
+<polyline points="48,220 110,190 170,205 230,160 290,175 350,130 410,150 470,110 528,120" fill="none" stroke="#0674e7" stroke-width="3" stroke-linecap="round"/>
+<g font-size="12" fill="#60636b">
+<rect x="48" y="252" width="150" height="46" rx="12" fill="#f7f7f9"/><text x="66" y="281">p50 startup <tspan fill="#1b1d21" font-weight="700">1.2s</tspan></text>
+<rect x="212" y="252" width="170" height="46" rx="12" fill="#f7f7f9"/><text x="230" y="281">Crash-free <tspan fill="#1b1d21" font-weight="700">99.8%</tspan></text>
+<rect x="396" y="252" width="136" height="46" rx="12" fill="#f7f7f9"/><text x="414" y="281">Active <tspan fill="#1b1d21" font-weight="700">12.4k</tspan></text>
+</g>
+</svg>

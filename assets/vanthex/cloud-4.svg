@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 446" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect width="576" height="446" fill="#f7f7f9"/>
+<rect x="16" y="16" width="544" height="414" rx="20" fill="#fff" stroke="#e6e7eb"/>
+<text x="48" y="70" fill="#1b1d21" font-size="20" font-weight="700">App Store launch checklist</text>
+<text x="48" y="96" fill="#60636b" font-size="13">Launch guides you through the technical stuff.</text>
+<g><circle cx="60" cy="140" r="12" fill="#e5f8ee"/><path d="M54.96 140 l3.84 4.32 l6.6000000000000005-8.399999999999999" stroke="#1fa45b" stroke-width="2.64" fill="none" stroke-linecap="round"/></g><text x="88" y="146" fill="#1b1d21" font-size="14">App icons and splash screens</text>
+<g><circle cx="60" cy="184" r="12" fill="#e5f8ee"/><path d="M54.96 184 l3.84 4.32 l6.6000000000000005-8.399999999999999" stroke="#1fa45b" stroke-width="2.64" fill="none" stroke-linecap="round"/></g><text x="88" y="190" fill="#1b1d21" font-size="14">Privacy manifest</text>
+<g><circle cx="60" cy="228" r="12" fill="#e5f8ee"/><path d="M54.96 228 l3.84 4.32 l6.6000000000000005-8.399999999999999" stroke="#1fa45b" stroke-width="2.64" fill="none" stroke-linecap="round"/></g><text x="88" y="234" fill="#1b1d21" font-size="14">Store screenshots</text>
+<g><circle cx="60" cy="272" r="12" fill="#e5f8ee"/><path d="M54.96 272 l3.84 4.32 l6.6000000000000005-8.399999999999999" stroke="#1fa45b" stroke-width="2.64" fill="none" stroke-linecap="round"/></g><text x="88" y="278" fill="#1b1d21" font-size="14">Review notes</text>
+<circle cx="60" cy="316" r="12" fill="#f0f0f3"/><text x="88" y="322" fill="#60636b" font-size="14">Pricing plan</text>
+<rect x="48" y="352" width="480" height="10" rx="5" fill="#eef0f3"/><rect x="48" y="352" width="384" height="10" rx="5" fill="#0674e7"/>
+<text x="48" y="390" fill="#60636b" font-size="12">4 of 5 complete</text>
+<rect x="404" y="372" width="124" height="40" rx="999" fill="#050505"/><text x="466" y="397" fill="#fff" font-size="13" text-anchor="middle">Finish</text>
+</svg>

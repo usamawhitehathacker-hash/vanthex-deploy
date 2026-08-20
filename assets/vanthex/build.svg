@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect width="1280" height="800" fill="#f7f7f9"/>
+<rect x="48" y="96" width="430" height="608" rx="18" fill="#101114"/>
+<circle cx="76" cy="126" r="6" fill="#ff5f57"/><circle cx="98" cy="126" r="6" fill="#febc2e"/><circle cx="120" cy="126" r="6" fill="#28c840"/><text x="263" y="131" fill="#9aa0a6" font-size="13" text-anchor="middle">Vanthex Cloud — Claude</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+<text x="80" y="180" fill="#e8eaed">$ npx create-vanthex-app@latest my-app</text>
+<text x="80" y="210" fill="#9aa0a6">? Choose Vanthex Go compatibility:</text>
+<text x="80" y="234" fill="#e8eaed">  Latest — SDK 1 (recommended)</text>
+<text x="80" y="268" fill="#38c878">✔ Created a project with the default template</text>
+<text x="80" y="292" fill="#38c878">✔ Installed JavaScript dependencies</text>
+<text x="80" y="326" fill="#e8eaed">$ cd my-app</text>
+<text x="80" y="350" fill="#e8eaed">$ npx vanthex start</text>
+<text x="80" y="620" fill="#9aa0a6">› Waiting on vnx://192.168.1.42:8081</text>
+<text x="80" y="646" fill="#9aa0a6">› Scan the QR code with Vanthex Go</text>
+<text x="80" y="672" fill="#9aa0a6">› Web is waiting on http://localhost:8081</text>
+</g>
+<rect x="80" y="392" width="150" height="150" rx="10" fill="#fff"/>
+<g fill="#101114"><rect x="92" y="404" width="34" height="34"/><rect x="184" y="404" width="34" height="34"/><rect x="92" y="496" width="34" height="34"/><rect x="140" y="452" width="18" height="18"/><rect x="166" y="478" width="18" height="18"/><rect x="140" y="496" width="12" height="12"/><rect x="184" y="452" width="12" height="12"/><rect x="206" y="478" width="12" height="12"/><rect x="166" y="428" width="10" height="10"/><rect x="206" y="506" width="12" height="12"/></g>
+<rect x="540" y="120" width="240" height="500" rx="36" fill="#0b0c0e"/>
+<rect x="552" y="132" width="216" height="476" rx="26" fill="#ffffff"/>
+<rect x="628" y="146" width="64" height="16" rx="8" fill="#0b0c0e"/>
+<g transform="translate(610,240)"><rect width="100" height="100" rx="25.0" fill="#0674e7"/><path d="M24.0 30.0h14.000000000000002l12.0 30.0 12.0-30.0h14.000000000000002l-20.0 44.0h-12.0z" fill="#fff"/></g>
+<text x="660" y="402" fill="#111" font-size="27" font-weight="700" text-anchor="middle">Welcome</text>
+<text x="660" y="436" fill="#111" font-size="27" font-weight="700" text-anchor="middle">to Vanthex</text>
+<text x="660" y="500" fill="#9aa0a6" font-size="10" letter-spacing="2" text-anchor="middle">GET STARTED</text>
+<rect x="572" y="516" width="176" height="70" rx="12" fill="#f2f3f5"/>
+<text x="586" y="540" fill="#5f6368" font-size="11">Try editing</text><text x="586" y="566" fill="#5f6368" font-size="11">Dev tools</text>
+<rect x="584" y="576" width="152" height="26" rx="13" fill="#fff"/>
+<text x="600" y="593" fill="#9aa0a6" font-size="10">Home</text><text x="646" y="593" fill="#111" font-size="10">Shop</text><text x="690" y="593" fill="#9aa0a6" font-size="10">Account</text>
+<rect x="800" y="96" width="432" height="608" rx="18" fill="#101114"/>
+<circle cx="828" cy="126" r="6" fill="#ff5f57"/><circle cx="850" cy="126" r="6" fill="#febc2e"/><circle cx="872" cy="126" r="6" fill="#28c840"/><rect x="940" y="112" width="240" height="26" rx="13" fill="#1d1f24"/><text x="962" y="129" fill="#9aa0a6" font-size="12">vanthex-swag-store</text>
+<rect x="800" y="150" width="432" height="40" fill="#17181c"/>
+<text x="830" y="175" fill="#9aa0a6" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">index.tsx</text>
+<rect x="905" y="156" width="110" height="28" rx="6" fill="#101114"/><text x="920" y="175" fill="#e8eaed" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">_layout.tsx</text>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5">
+<text x="830" y="225" fill="#f97583">import <tspan fill="#e8eaed">"../../global.css"</tspan>;</text>
+<text x="830" y="251" fill="#f97583">import <tspan fill="#e8eaed">{ Tabs, Icon, Label }</tspan> from <tspan fill="#9ecbff">"vanthex-router"</tspan>;</text>
+<text x="830" y="277" fill="#f97583">import <tspan fill="#e8eaed">{ StatusBar }</tspan> from <tspan fill="#9ecbff">"vanthex-status-bar"</tspan>;</text>
+<text x="830" y="321" fill="#f97583">export default <tspan fill="#b392f0">function</tspan> <tspan fill="#ffab70">RootLayout</tspan>() {</text>
+<text x="856" y="347" fill="#f97583">return <tspan fill="#e8eaed">(</tspan></text>
+<text x="890" y="373" fill="#e8eaed">&lt;Tabs&gt;</text>
+<text x="920" y="399" fill="#e8eaed">&lt;Tabs.Trigger <tspan fill="#ffab70">name</tspan>=<tspan fill="#9ecbff">"index"</tspan> /&gt;</text>
+<text x="950" y="425" fill="#e8eaed">&lt;Label&gt;Home&lt;/Label&gt;</text>
+<text x="920" y="451" fill="#e8eaed">&lt;Tabs.Trigger <tspan fill="#ffab70">name</tspan>=<tspan fill="#9ecbff">"explore"</tspan> /&gt;</text>
+<text x="950" y="477" fill="#e8eaed">&lt;Label&gt;Shop&lt;/Label&gt;</text>
+<text x="920" y="503" fill="#e8eaed">&lt;Tabs.Trigger <tspan fill="#ffab70">name</tspan>=<tspan fill="#9ecbff">"cart"</tspan> /&gt;</text>
+<text x="950" y="529" fill="#e8eaed">&lt;Label&gt;Chat&lt;/Label&gt;</text>
+<text x="890" y="555" fill="#e8eaed">&lt;/Tabs&gt;</text>
+<text x="856" y="581" fill="#e8eaed">);</text>
+<text x="830" y="607" fill="#e8eaed">}</text>
+</g>
+<rect x="800" y="664" width="432" height="40" fill="#17181c"/>
+<g transform="translate(816,672)"><rect width="24" height="24" rx="6.0" fill="#0674e7"/><path d="M5.76 7.199999999999999h3.3600000000000003l2.88 7.199999999999999 2.88-7.199999999999999h3.3600000000000003l-4.800000000000001 10.56h-2.88z" fill="#fff"/></g><text x="856" y="689" fill="#9aa0a6" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">main</text>
+<text x="1120" y="689" fill="#9aa0a6" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">TypeScript JSX</text>
+</svg>

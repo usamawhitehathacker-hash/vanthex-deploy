@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif">
+<rect width="1280" height="800" fill="#f7f7f9"/>
+<rect width="260" height="800" fill="#101114"/>
+<g transform="translate(24,26)"><rect width="30" height="30" rx="7.5" fill="#0674e7"/><path d="M7.199999999999999 9.0h4.2l3.5999999999999996 9.0 3.5999999999999996-9.0h4.2l-6.0 13.2h-3.5999999999999996z" fill="#fff"/></g><text x="66" y="47" fill="#fff" font-size="18" font-weight="700">Vanthex</text>
+<g font-size="14" fill="#9aa0a6"><text x="28" y="130">Build</text><text x="28" y="176">Submit</text><text x="28" y="222" fill="#fff">Update</text><text x="28" y="268">Workflows</text><text x="28" y="314">Observe</text></g>
+<rect x="0" y="202" width="4" height="26" fill="#0674e7"/>
+<text x="320" y="130" fill="#1b1d21" font-size="34" font-weight="700">Update</text>
+<text x="320" y="164" fill="#60636b" font-size="15">Ship improvements instantly and keep every user on the best version.</text>
+<rect x="320" y="220" width="380" height="300" rx="20" fill="#fff" stroke="#e6e7eb"/>
+<circle cx="510" cy="360" r="92" fill="none" stroke="#eef0f3" stroke-width="26"/>
+<circle cx="510" cy="360" r="92" fill="none" stroke="#0674e7" stroke-width="26" stroke-linecap="round" stroke-dasharray="485 578" transform="rotate(-90 510 360)"/>
+<text x="510" y="352" fill="#1b1d21" font-size="40" font-weight="700" text-anchor="middle">84%</text>
+<text x="510" y="384" fill="#60636b" font-size="13" text-anchor="middle">devices on latest</text>
+<rect x="740" y="220" width="420" height="300" rx="20" fill="#fff" stroke="#e6e7eb"/>
+<text x="770" y="262" fill="#1b1d21" font-size="15" font-weight="600">Instant updates / hour</text>
+<polyline points="770,470 830,440 890,452 950,392 1010,368 1070,330 1130,300" fill="none" stroke="#0674e7" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1130" cy="300" r="5" fill="#0674e7"/>
+<g font-size="14">
+<rect x="320" y="560" width="840" height="64" rx="14" fill="#fff" stroke="#e6e7eb"/>
+<text x="348" y="598" fill="#1b1d21" font-weight="600">v2.4.1</text><rect x="470" y="586" width="470" height="10" rx="5" fill="#eef0f3"/><rect x="470" y="586" width="395" height="10" rx="5" fill="#0674e7"/><rect x="1060" y="576" width="72" height="28" rx="14" fill="#e5f8ee"/><text x="1096" y="595" fill="#1fa45b" font-size="12" text-anchor="middle">Live</text>
+<rect x="320" y="640" width="840" height="64" rx="14" fill="#fff" stroke="#e6e7eb"/>
+<text x="348" y="678" fill="#1b1d21" font-weight="600">v2.4.0</text><rect x="470" y="666" width="470" height="10" rx="5" fill="#eef0f3"/><rect x="470" y="666" width="60" height="10" rx="5" fill="#c4c6cc"/><rect x="1060" y="656" width="72" height="28" rx="14" fill="#f0f0f3"/><text x="1096" y="675" fill="#60636b" font-size="12" text-anchor="middle">Old</text>
+</g>
+<rect x="980" y="120" width="180" height="52" rx="999" fill="#0674e7"/>
+<text x="1070" y="152" fill="#fff" font-size="15" text-anchor="middle">Publish update</text>
+</svg>
